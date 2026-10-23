@@ -16,5 +16,5 @@ Deployed an Azure virtual machine (`dataorg-dv-28m`) functioning as a honeypot t
 * Executed a full DFIR investigation timeline, tracking the initial point of entry, unauthorized database reconnaissance, and the execution of a destructive ransomware payload.
 
 ## Project Files
-* **[Incident Response Report (PDF)](insert-link-to-pdf-here)**
-* **[Raw KQL Investigation Queries](insert-link-to-kql-file-here)**
+* **[Incident Response Report (PDF)]((https://github.com/devanshdv/Azure-SOC-Honeypot-Incident/blob/main/DFIR%20Report-HoneyPot%20Project.pdf)**
+* **[Raw KQL Investigation Queries](https://github.com/devanshdv/Azure-SOC-Honeypot-Incident/blob/main/DFIR%20Report-HoneyPot%20Project.pdf)**
