@@ -32,7 +32,8 @@ To confirm the exact technical requirements of the fix before scripting, the vul
 
 <img width="534" height="324" alt="Screenshot 2026-10-29 221302" src="https://github.com/user-attachments/assets/32f92951-8a7e-4aba-aef7-5f00d1b2dc1f" />
 
-Second Scan Results: <img width="534" height="324" alt="Screenshot 2026-10-29 221302" src="https://github.com/user-attachments/assets/8fc1085d-a3ec-4c16-bea7-9a34261d2353" />
+Second Scan Results: <img width="1912" height="554" alt="Screenshot 2026-10-29 225147" src="https://github.com/user-attachments/assets/e5679f73-a94c-49f8-897c-b49e8e9350de" />
+
 
 
 
@@ -57,10 +58,8 @@ Verify the script: <img width="880" height="875" alt="Screenshot 2026-10-29 2344
 ## Phase 6: Final Validation
 Following the execution of the PowerShell script, a final credentialed Tenable scan was launched against the Azure VM. The results confirmed that the programmatic intervention successfully applied the required security configurations, permanently clearing the STIG vulnerability from the compliance report.
 
-![Successful Automated Remediation Scan Result (Post-PowerShell)](path/to/your/image5.png)
-
 Pass the scan: <img width="1214" height="482" alt="image" src="https://github.com/user-attachments/assets/632f70a2-2174-4ceb-b3e1-60e220833f64" />
-
+## PowerShell Script
 ```powershell
 <#
 .SYNOPSIS
