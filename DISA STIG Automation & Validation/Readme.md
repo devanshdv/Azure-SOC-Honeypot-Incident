@@ -13,7 +13,7 @@ To identify, validate, and automate the remediation of a Defense Information Sys
 ## Phase 1: Environment Provisioning and Baseline Configuration
 The project initiated with the deployment of a Windows 11 Virtual Machine within Microsoft Azure. To facilitate comprehensive compliance auditing, Tenable Nessus was configured with the appropriate system credentials. This authenticated configuration ensured the scanner could perform deep-level registry and policy checks against the target VM. 
 
-![Azure VM & Tenable Authenticated Scan Configuration]<img width="1407" height="980" alt="image" src="https://github.com/user-attachments/assets/11f9f018-e653-4762-a6e0-b835a2750bed" /> <img width="1067" height="321" alt="image" src="https://github.com/user-attachments/assets/88f3ba8b-7d84-465a-a237-9a2697ab0e40" />
+<img width="1407" height="980" alt="image" src="https://github.com/user-attachments/assets/11f9f018-e653-4762-a6e0-b835a2750bed" /> <img width="1067" height="321" alt="image" src="https://github.com/user-attachments/assets/88f3ba8b-7d84-465a-a237-9a2697ab0e40" />
 
 
 
