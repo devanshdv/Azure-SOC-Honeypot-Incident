@@ -177,9 +177,9 @@ By exposing the vulnerable VM to the public internet, the environment immediatel
 
 To review the complete investigation, executive summary, and the raw code used in this environment, please refer to the following repository files:
 
-* 📄 **[Comprehensive Incident Response Report (PDF)](https://github.com/devanshdv/Azure-SOC-Honeypot-Incident/blob/main/Incident%20Report-HoneyPot%20Project.pdf)**
+* 📄 **[Comprehensive Incident Response Report (PDF)](https://github.com/devanshdv/Security-Engineering-Portfolio/blob/main/Azure%20HoneyPot%20%26%20ThreatHunting%20Project/Incident%20Report-HoneyPot%20Project.pdf)**
   * *Includes the executive summary, detailed timeline of events, MITRE ATT&CK mapping, and recommended remediation steps.*
-* 💻 **[Raw KQL Investigation Queries](https://github.com/devanshdv/Azure-SOC-Honeypot-Incident/blob/main/DFIR%20Report-HoneyPot%20Project.pdf)**
+* 💻 **[Raw KQL Investigation Queries](https://github.com/devanshdv/Security-Engineering-Portfolio/blob/main/Azure%20HoneyPot%20%26%20ThreatHunting%20Project/DFIR%20Report-HoneyPot%20Project.pdf)**
   * *Contains all Kusto Query Language scripts engineered for threat detection, log parsing, and Azure Workbook geomapping.*
 
 ---
